@@ -4,9 +4,9 @@ Currently done majority of:
 - Templates
 - Forms, registration, login and user validation
 - SQLite database setup
+- Package structure
 
 Still to include:
-- Package structure
 - User management
 - Post management
 - Email/password resets
