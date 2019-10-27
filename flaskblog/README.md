@@ -5,9 +5,9 @@ Currently done majority of:
 - Forms, registration, login and user validation
 - SQLite database setup
 - Package structure
+- User management
 
 Still to include:
-- User management
 - Post management
 - Email/password resets
 - Error management
