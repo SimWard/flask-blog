@@ -6,9 +6,9 @@ Currently done majority of:
 - SQLite database setup
 - Package structure
 - User management
+- Post management
 
 Still to include:
-- Post management
 - Email/password resets
 - Error management
 - Deployment
