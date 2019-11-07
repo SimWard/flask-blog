@@ -7,12 +7,12 @@ Currently done majority of:
 - Package structure
 - User management
 - Post management
-
-Still to include:
 - Email/password resets
 - Error management
+
+Still to do:
 - Deployment
 - HTTPS
 
 
-All done watching Corey Schafer's Flask YouTube series.
+Done all based from here: https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g.
